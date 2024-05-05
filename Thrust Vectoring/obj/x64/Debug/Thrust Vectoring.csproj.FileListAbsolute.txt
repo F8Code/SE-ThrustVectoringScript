@@ -1,0 +1,25 @@
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\obj\x64\Debug\Thrust Vectoring.csproj.AssemblyReference.cache
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\obj\x64\Debug\Thrust Vectoring.csproj.SuggestedBindingRedirects.cache
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\obj\x64\Debug\Thrust Vectoring.exe.config
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\obj\x64\Debug\Thrust Vectoring.csproj.CoreCompileInputs.cache
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\MDK\MDK.options.props
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\MDK\MDK.paths.props
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\Thrust Vectoring.exe.config
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\Thrust Vectoring.exe
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\Thrust Vectoring.pdb
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\MDKUtilities.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\VRage.Network.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\HavokWrapper.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\ProtoBuf.Net.Core.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\System.Memory.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\VRage.NativeWrapper.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\System.Buffers.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\SixLabors.ImageSharp.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\SixLabors.Core.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\System.Numerics.Vectors.dll
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\SixLabors.ImageSharp.xml
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\bin\SixLabors.Core.xml
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\obj\x64\Debug\Thrust Vectoring.csproj.CopyComplete
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\obj\x64\Debug\Thrust Vectoring.exe
+C:\Users\hubgo\Desktop\Thrust Vectoring\Thrust Vectoring\obj\x64\Debug\Thrust Vectoring.pdb

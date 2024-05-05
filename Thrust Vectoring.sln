@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thrust Vectoring", "Thrust Vectoring\Thrust Vectoring.csproj", "{E2839595-EF87-4337-9866-26B3148A7A96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2839595-EF87-4337-9866-26B3148A7A96}.Debug|x64.ActiveCfg = Debug|x64
+		{E2839595-EF87-4337-9866-26B3148A7A96}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E63CFB5-7D2A-4416-AAD7-754C66DA4B7B}
+	EndGlobalSection
+EndGlobal
